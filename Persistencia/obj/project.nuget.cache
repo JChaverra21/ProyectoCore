@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kYYb9wQK8Cx3PIkXHtVKaZLLdPPWilSLVmGfVvgtw3FVqr3pEZ1mAluuKK1qrT8jm8td3xTlronfbrFwQz/HlQ==",
+  "dgSpecHash": "VGbITHEaipvCFSVsFUWUIH47rJzU9UDY7BMGE6yvehFJ9FhvdVy144YQRvEI2FjEALqqyIRniDwBZeRQAA9XSA==",
   "success": true,
-  "projectFilePath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\dapper\\2.0.4\\dapper.2.0.4.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

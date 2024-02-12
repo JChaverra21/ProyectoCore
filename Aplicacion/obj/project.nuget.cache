@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4NRkTn5uW6/suQGwUwV7XmnZ+dxmkMAANrpA8mSY+aO5GWOWfi7NUwzVkR4zERhV2ZoxdaN/pwoWkPx8xxDYKQ==",
+  "dgSpecHash": "Mh/HDXQBzptD/3+DOfvM3B0dIl7tlBPEtjlixC7/Yp3lIkfOHl6Y5TiMOdQdpF4B3VihfP6a0LQOwellHInSVA==",
   "success": true,
-  "projectFilePath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

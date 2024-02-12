@@ -7105,11 +7105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+      "projectPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\WebAPI\\obj\\",
+      "outputPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7125,8 +7125,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
+            "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }
