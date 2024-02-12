@@ -39,5 +39,18 @@ namespace WebAPI.Controllers
         {
             return await _mediator.Send(data);
         }
+
+        [HttpPut("{id}")]
+        public async Task<ActionResult<Unit>> Edit(Editar.Ejecuta data, int id)
+        {
+            data.CursoId = id;
+            return await _mediator.Send(data);
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<Unit>> Delete(int id)
+        {
+            return await _mediator.Send(new Eliminar.Ejecuta{Id = id});
+        }
     }
 }
