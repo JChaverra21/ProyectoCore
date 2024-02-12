@@ -2091,10 +2091,7 @@
         },
         "runtime": {
           "bin/placeholder/Aplicacion.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "Dominio/1.0.0": {
         "type": "project",
@@ -2104,11 +2101,7 @@
         },
         "runtime": {
           "bin/placeholder/Dominio.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore"
-        ]
+        }
       },
       "Persistencia/1.0.0": {
         "type": "project",
@@ -2125,10 +2118,7 @@
         },
         "runtime": {
           "bin/placeholder/Persistencia.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },

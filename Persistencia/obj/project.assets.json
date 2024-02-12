@@ -1737,11 +1737,7 @@
         },
         "runtime": {
           "bin/placeholder/Dominio.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore"
-        ]
+        }
       }
     }
   },
@@ -6359,11 +6355,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          }
-        },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
