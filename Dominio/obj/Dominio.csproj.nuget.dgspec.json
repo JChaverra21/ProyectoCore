@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj": {}
+    "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj": {
+    "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\obj\\",
+        "outputPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

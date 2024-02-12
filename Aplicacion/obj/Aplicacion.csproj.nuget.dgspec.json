@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {}
+    "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {}
   },
   "projects": {
-    "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
+    "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\obj\\",
+        "outputPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj"
+              "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj"
               },
-              "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\Persistencia.csproj"
+              "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj": {
+    "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\obj\\",
+        "outputPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -137,14 +137,14 @@
         }
       }
     },
-    "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
+    "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+        "projectPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\obj\\",
+        "outputPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,8 +160,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "D:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj"
+              "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "d:\\PROYECTOS\\Desarrollos\\ProyectoCore\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -181,15 +181,15 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[3.1.2, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[3.1.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[3.1.2, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
