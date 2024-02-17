@@ -1,8 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Threading;
 using System.Threading.Tasks;
+using Aplicacion.Cursos.ManejadorError;
 using MediatR;
 using Persistencia;
 
@@ -31,7 +33,8 @@ namespace Aplicacion.Cursos
 
                 if(curso == null)
                 {
-                    throw new Exception("No se encontró el curso");
+                    //throw new Exception("No se encontró el curso");
+                    throw new ManejadorExcepcion(HttpStatusCode.NotFound, new { mensaje = "No se encontró el curso" });
                 }
 
                 _context.Remove(curso);
@@ -39,7 +42,8 @@ namespace Aplicacion.Cursos
 
                 if (valor > 0) { return Unit.Value; }
 
-                throw new Exception("No se pudo eliminar el curso");
+                //throw new Exception("No se pudo eliminar el curso");
+                throw new ManejadorExcepcion(HttpStatusCode.NotFound, new { mensaje = "No se pudo eliminar el curso" });
             }
         }
     }
